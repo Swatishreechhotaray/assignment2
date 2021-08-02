@@ -1,0 +1,52 @@
+.blog{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:75px;
+       
+}
+
+
+body{
+    background-color:lightblue;
+     text-align-last:center ;
+}
+ .navbar{
+     background-color:cadetblue;
+     border-radius: 35px;
+
+    }
+ .navbar ul{
+        overflow: auto;
+    }
+
+.navbar li{
+    float:left;
+    list-style:none ;
+    margin:5px 5px;
+
+}
+.navbar li a{
+     padding:60px 50px;
+     text-decoration: none;
+     color:black;
+}
+.navbar li a:hover{
+    
+
+    background-color:greenyellow}
+.search{
+    float:right;
+    padding:3px 38px;
+    color:white;
+}
+.navbar input{
+    border: white;
+    border-radius: 3px;
+    padding: 3px 8px;
+    width: 129px;
+}
+.about{
+    text-align-last:left;
+}
+
+
+
